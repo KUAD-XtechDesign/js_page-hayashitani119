@@ -127,3 +127,8 @@ header ul li{
   justify-content: center;
   top: 0;
 }
+
+
+#log{
+  width: 50%;
+}
