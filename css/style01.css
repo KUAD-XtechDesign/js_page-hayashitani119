@@ -72,7 +72,7 @@ header ul li{
 #person{
   position: absolute;
   top:200px;
-  right: -200px;
+  right: -300px;
   width: 300px;
   transition: 0.6s all;
 }
