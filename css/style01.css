@@ -73,7 +73,7 @@ header ul li{
   position: absolute;
   top:200px;
   right: -100px;
-  width: 100%;
+  width: 100px;
   transition: 0.6s all;
 }
 
