@@ -72,13 +72,13 @@ header ul li{
 #person{
   position: absolute;
   top:200px;
-  right: -100px;
+  right: -150px;
   width: 200px;
   transition: 0.6s all;
 }
 
 #person.anime{
-  right: 10px;
+  right: 50px;
 }
 
 
